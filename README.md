@@ -22,6 +22,12 @@ The data are distributed as GitHub Release attachments. The Git repository conta
 python restore_data.py --assets release-assets --output data
 ```
 
+If GitHub CLI is installed, all release attachments can be downloaded with one command after the release is published:
+
+```shell
+gh release download data-v1.0 --repo forest1997/mouse-organs-ffoct-raw-data --dir release-assets
+```
+
 The script reassembles file parts in manifest order, checks SHA-256 hashes for both the individual attachments and the complete original files, and restores the exact original Unicode filenames and organ directory structure. It refuses to overwrite existing output files. If verification fails, an incomplete `.partial` file is left for inspection; remove that specific incomplete file before retrying.
 
 Large arrays are divided into byte segments of at most 1,800,000,000 bytes, below GitHub's 2 GiB release-attachment limit. Segmentation does not alter the original data. No compression, intensity transformation, resampling, or format conversion is applied.
