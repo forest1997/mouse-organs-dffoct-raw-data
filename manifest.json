@@ -2,7 +2,7 @@
   "schema_version": 1,
   "title": "Label-free volumetric dynamic atlas of fresh mouse organs using full-field optical coherence tomography",
   "file_count": 30,
-  "total_bytes": 36625102583,
+  "total_bytes": 37465707797,
   "split_method": "Byte concatenation in manifest asset order; no compression or conversion.",
   "files": [
     {
@@ -15,7 +15,13 @@
           "sha256": "78fa12bed49aba59c4e5af981ad6062c7001c6c5899c0e22443be5c0a4f4ca87"
         }
       ],
-      "sha256": "78fa12bed49aba59c4e5af981ad6062c7001c6c5899c0e22443be5c0a4f4ca87"
+      "sha256": "78fa12bed49aba59c4e5af981ad6062c7001c6c5899c0e22443be5c0a4f4ca87",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Brain/003_+20.0μm_-0.576mm_1.642mm_raw.npy",
@@ -62,7 +68,13 @@
           "sha256": "369e96c91667c3eff7709d9bcd9e738d769bc22310c5282336e948344967d38f"
         }
       ],
-      "sha256": "369e96c91667c3eff7709d9bcd9e738d769bc22310c5282336e948344967d38f"
+      "sha256": "369e96c91667c3eff7709d9bcd9e738d769bc22310c5282336e948344967d38f",
+      "image": {
+        "width": 26396,
+        "height": 17197,
+        "format": "JPEG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Duodenum/001_+0.0μm_1.612mm_-2.381mm.png",
@@ -74,7 +86,13 @@
           "sha256": "678d27312161cfcb80a970e863863edf21825383577bd1aeb5c4f2608a5271cd"
         }
       ],
-      "sha256": "678d27312161cfcb80a970e863863edf21825383577bd1aeb5c4f2608a5271cd"
+      "sha256": "678d27312161cfcb80a970e863863edf21825383577bd1aeb5c4f2608a5271cd",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Duodenum/001_+0.0μm_1.612mm_-2.381mm_raw.npy",
@@ -112,16 +130,22 @@
       "sha256": "cf49d50983837e0c649ea6d37ca17458cdb493b24bdef084f54c5b57ef62319a"
     },
     {
-      "path": "Duodenum/Duodenum.png",
-      "bytes": 8489411,
+      "path": "Duodenum/Duodenum.jpg",
+      "bytes": 184568319,
       "assets": [
         {
-          "name": "006_duodenum.png",
-          "bytes": 8489411,
-          "sha256": "d6be2215c9f66a154ffe2f8eea754174c6ea1570001b15e9c59a7798ece4999e"
+          "name": "006_duodenum-d7f7cad04ab4.jpg",
+          "bytes": 184568319,
+          "sha256": "d7f7cad04ab4f42a374f0c734503b220e659832c8c9ca8218fcdd40f1ff1922f"
         }
       ],
-      "sha256": "d6be2215c9f66a154ffe2f8eea754174c6ea1570001b15e9c59a7798ece4999e"
+      "sha256": "d7f7cad04ab4f42a374f0c734503b220e659832c8c9ca8218fcdd40f1ff1922f",
+      "image": {
+        "width": 19540,
+        "height": 18091,
+        "format": "JPEG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Eyeball/021_+20.0μm_-0.429mm_-3.078mm.png",
@@ -133,7 +157,13 @@
           "sha256": "3c28d80064b404a0b142a1ad4b3eb96a3d73f7dfa190628221e1cee2f5315a0f"
         }
       ],
-      "sha256": "3c28d80064b404a0b142a1ad4b3eb96a3d73f7dfa190628221e1cee2f5315a0f"
+      "sha256": "3c28d80064b404a0b142a1ad4b3eb96a3d73f7dfa190628221e1cee2f5315a0f",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Eyeball/021_+20.0μm_-0.429mm_-3.078mm_raw.npy",
@@ -180,7 +210,13 @@
           "sha256": "08a50b2bd58ebdbfe41510c5f2062599536461ec89a1a607a1bbaea9cf2ea795"
         }
       ],
-      "sha256": "08a50b2bd58ebdbfe41510c5f2062599536461ec89a1a607a1bbaea9cf2ea795"
+      "sha256": "08a50b2bd58ebdbfe41510c5f2062599536461ec89a1a607a1bbaea9cf2ea795",
+      "image": {
+        "width": 7229,
+        "height": 7598,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Inguinal lymph node/011_+10.0μm_1.744mm_0.700mm.png",
@@ -192,7 +228,13 @@
           "sha256": "e4171a8294504d3e2859640871a8888e3931fc0a2f823beb3bfd3c0b03b30d30"
         }
       ],
-      "sha256": "e4171a8294504d3e2859640871a8888e3931fc0a2f823beb3bfd3c0b03b30d30"
+      "sha256": "e4171a8294504d3e2859640871a8888e3931fc0a2f823beb3bfd3c0b03b30d30",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Inguinal lymph node/011_+10.0μm_1.744mm_0.700mm_raw.npy",
@@ -230,16 +272,22 @@
       "sha256": "dbe2cb475048accdcc1aef1acc5b1ffbfd0d02ea0f965c7e085794deab8f4770"
     },
     {
-      "path": "Inguinal lymph node/Inguinal lymph node.png",
-      "bytes": 2500099,
+      "path": "Inguinal lymph node/Inguinal lymph node.jpg",
+      "bytes": 19467120,
       "assets": [
         {
-          "name": "012_inguinal-lymph-node.png",
-          "bytes": 2500099,
-          "sha256": "2f4889eb76c94732733d03c10c4078e63e511a81c0eb258dad8aeb1bf7b8958b"
+          "name": "012_inguinal-lymph-node-cd60f59c1162.jpg",
+          "bytes": 19467120,
+          "sha256": "cd60f59c1162581424ba7dea386c65818ee34e788f83bc51610e35cfd7411295"
         }
       ],
-      "sha256": "2f4889eb76c94732733d03c10c4078e63e511a81c0eb258dad8aeb1bf7b8958b"
+      "sha256": "cd60f59c1162581424ba7dea386c65818ee34e788f83bc51610e35cfd7411295",
+      "image": {
+        "width": 7238,
+        "height": 6097,
+        "format": "JPEG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Kidney/021_+20.0μm_0.462mm_0.006mm.png",
@@ -251,7 +299,13 @@
           "sha256": "197e5b812368b63d8e1473bf2d858e147294b6b855734c682baf0b7052b07066"
         }
       ],
-      "sha256": "197e5b812368b63d8e1473bf2d858e147294b6b855734c682baf0b7052b07066"
+      "sha256": "197e5b812368b63d8e1473bf2d858e147294b6b855734c682baf0b7052b07066",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Kidney/021_+20.0μm_0.462mm_0.006mm_raw.npy",
@@ -289,16 +343,22 @@
       "sha256": "c0d9173bd4efebb246e8b87ff2beb69cdf8c40ef26903009a9f40255fccbe976"
     },
     {
-      "path": "Kidney/kidney.png",
-      "bytes": 7740942,
+      "path": "Kidney/kidney.jpg",
+      "bytes": 260251961,
       "assets": [
         {
-          "name": "015_kidney.png",
-          "bytes": 7740942,
-          "sha256": "81f7ec7ea75f67408199509d5438eb1a2dd07749d4663dcba2324da88d00e7df"
+          "name": "015_kidney-9ca81a6cd0f7.jpg",
+          "bytes": 260251961,
+          "sha256": "9ca81a6cd0f7c70e2a6b3382d5064e4e1b55f4872a409098c761079d12b277e7"
         }
       ],
-      "sha256": "81f7ec7ea75f67408199509d5438eb1a2dd07749d4663dcba2324da88d00e7df"
+      "sha256": "9ca81a6cd0f7c70e2a6b3382d5064e4e1b55f4872a409098c761079d12b277e7",
+      "image": {
+        "width": 16540,
+        "height": 21077,
+        "format": "JPEG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Liver/020_+19.0μm_-0.476mm_1.342mm.png",
@@ -310,7 +370,13 @@
           "sha256": "5ddb159c680f9206dd0b2e467dc1ef68d40c661474bad9669ae48ba1a6e06454"
         }
       ],
-      "sha256": "5ddb159c680f9206dd0b2e467dc1ef68d40c661474bad9669ae48ba1a6e06454"
+      "sha256": "5ddb159c680f9206dd0b2e467dc1ef68d40c661474bad9669ae48ba1a6e06454",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Liver/020_+19.0μm_-0.476mm_1.342mm_raw.npy",
@@ -357,7 +423,13 @@
           "sha256": "38dfe88a74067544b08fd60fae87a2fd1fd7303dc38de781a8195a6be5c3572b"
         }
       ],
-      "sha256": "38dfe88a74067544b08fd60fae87a2fd1fd7303dc38de781a8195a6be5c3572b"
+      "sha256": "38dfe88a74067544b08fd60fae87a2fd1fd7303dc38de781a8195a6be5c3572b",
+      "image": {
+        "width": 6242,
+        "height": 7605,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Ovary/024_+23.0μm_0.618mm_0.887mm.png",
@@ -369,7 +441,13 @@
           "sha256": "52c7eb90c0d5c44a6a5bb0c015bd45e16eb7f8a5967cf8e3265009d1badca57c"
         }
       ],
-      "sha256": "52c7eb90c0d5c44a6a5bb0c015bd45e16eb7f8a5967cf8e3265009d1badca57c"
+      "sha256": "52c7eb90c0d5c44a6a5bb0c015bd45e16eb7f8a5967cf8e3265009d1badca57c",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Ovary/024_+23.0μm_0.618mm_0.887mm_raw.npy",
@@ -407,16 +485,22 @@
       "sha256": "f6f77bc66552850b9a75365958512ec1de70f87b5f2f17299d5e1cafdfc1712c"
     },
     {
-      "path": "Ovary/ovary.png",
-      "bytes": 3084562,
+      "path": "Ovary/ovary.jpg",
+      "bytes": 26871083,
       "assets": [
         {
-          "name": "021_ovary.png",
-          "bytes": 3084562,
-          "sha256": "e664993b85a0fadf803e9652fedd96392f5ed0414d48dd621a6a59bebb1bbccd"
+          "name": "021_ovary-3e573328f56e.jpg",
+          "bytes": 26871083,
+          "sha256": "3e573328f56e2515eeda562d341c5194fcc9a89d61513909bf9aac273efb1d1f"
         }
       ],
-      "sha256": "e664993b85a0fadf803e9652fedd96392f5ed0414d48dd621a6a59bebb1bbccd"
+      "sha256": "3e573328f56e2515eeda562d341c5194fcc9a89d61513909bf9aac273efb1d1f",
+      "image": {
+        "width": 5180,
+        "height": 6101,
+        "format": "JPEG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Pancreas/016_+15.0μm_1.125mm_0.013mm.png",
@@ -428,7 +512,13 @@
           "sha256": "739fc44840e91efb508ea08020dbc6f5fbe56d22cf1b737767161391983c3f43"
         }
       ],
-      "sha256": "739fc44840e91efb508ea08020dbc6f5fbe56d22cf1b737767161391983c3f43"
+      "sha256": "739fc44840e91efb508ea08020dbc6f5fbe56d22cf1b737767161391983c3f43",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Pancreas/016_+15.0μm_1.125mm_0.013mm_raw.npy",
@@ -466,16 +556,22 @@
       "sha256": "71ca6776f81958a86f0685f5ad355bb4eb9d6730a6940154f8cc5e03bad63729"
     },
     {
-      "path": "Pancreas/pancreas.png",
-      "bytes": 8211674,
+      "path": "Pancreas/Pancreas.jpg",
+      "bytes": 194884562,
       "assets": [
         {
-          "name": "024_pancreas.png",
-          "bytes": 8211674,
-          "sha256": "20dabb6d19101d0347c956f63cbefbe027c21a1b53d2e799f768a5fe664fe1c7"
+          "name": "024_pancreas-c8d355a2a847.jpg",
+          "bytes": 194884562,
+          "sha256": "c8d355a2a8479a3ddc8daf036fdc0494ac30e629817194d50e732c7cb663e6af"
         }
       ],
-      "sha256": "20dabb6d19101d0347c956f63cbefbe027c21a1b53d2e799f768a5fe664fe1c7"
+      "sha256": "c8d355a2a8479a3ddc8daf036fdc0494ac30e629817194d50e732c7cb663e6af",
+      "image": {
+        "width": 16511,
+        "height": 15058,
+        "format": "JPEG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Testis/012_+11.0μm_-0.113mm_1.348mm.png",
@@ -487,7 +583,13 @@
           "sha256": "a43f9b34c3f933cce68c0e4564692e1daf242b05aef0efa1ad27368fd6bbfb99"
         }
       ],
-      "sha256": "a43f9b34c3f933cce68c0e4564692e1daf242b05aef0efa1ad27368fd6bbfb99"
+      "sha256": "a43f9b34c3f933cce68c0e4564692e1daf242b05aef0efa1ad27368fd6bbfb99",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Testis/012_+11.0μm_-0.113mm_1.348mm_raw.npy",
@@ -534,7 +636,13 @@
           "sha256": "76d31b9298101688d87d4531b703aadc1703cb933fbd0ad63a1f716c41f790ea"
         }
       ],
-      "sha256": "76d31b9298101688d87d4531b703aadc1703cb933fbd0ad63a1f716c41f790ea"
+      "sha256": "76d31b9298101688d87d4531b703aadc1703cb933fbd0ad63a1f716c41f790ea",
+      "image": {
+        "width": 10313,
+        "height": 7600,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Thymus/019_+18.0μm_-2.749mm_-2.736mm.png",
@@ -546,7 +654,13 @@
           "sha256": "a362281d08113881d1a54dbb6849defaf46ad090b385b4e66253ae5e456c5117"
         }
       ],
-      "sha256": "a362281d08113881d1a54dbb6849defaf46ad090b385b4e66253ae5e456c5117"
+      "sha256": "a362281d08113881d1a54dbb6849defaf46ad090b385b4e66253ae5e456c5117",
+      "image": {
+        "width": 1600,
+        "height": 1100,
+        "format": "PNG",
+        "mode": "RGB"
+      }
     },
     {
       "path": "Thymus/019_+18.0μm_-2.749mm_-2.736mm_raw.npy",
@@ -584,16 +698,23 @@
       "sha256": "18f8e3fcb0aaec05d364c7017e2e0457202ea8ac43233cf1c4d534929dc7c673"
     },
     {
-      "path": "Thymus/Thymus.png",
-      "bytes": 6736718,
+      "path": "Thymus/Thymus.jpg",
+      "bytes": 191325575,
       "assets": [
         {
-          "name": "030_thymus.png",
-          "bytes": 6736718,
-          "sha256": "a22b36a41eb7e9e8193ee494e067596ea33a099c0caffb170a5bd9c2789fe939"
+          "name": "030_thymus-8a8925736319.jpg",
+          "bytes": 191325575,
+          "sha256": "8a89257363192ec9afe8892cb099c9a53e2b1560299e0bf4f4a15566d8896ef7"
         }
       ],
-      "sha256": "a22b36a41eb7e9e8193ee494e067596ea33a099c0caffb170a5bd9c2789fe939"
+      "sha256": "8a89257363192ec9afe8892cb099c9a53e2b1560299e0bf4f4a15566d8896ef7",
+      "image": {
+        "width": 18566,
+        "height": 15105,
+        "format": "JPEG",
+        "mode": "RGB"
+      }
     }
-  ]
+  ],
+  "image_integrity": "Image files are byte-for-byte copies of the current source files. No resizing or re-encoding is applied."
 }
