@@ -1,0 +1,366 @@
+{
+  "image_count": 20,
+  "changed_images": 6,
+  "images": [
+    {
+      "path": "Brain/003_+20.0μm_-0.576mm_1.642mm.png",
+      "previous_path": "Brain/003_+20.0μm_-0.576mm_1.642mm.png",
+      "previous_asset": "001_brain.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4664319,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4664319,
+      "sha256": "78fa12bed49aba59c4e5af981ad6062c7001c6c5899c0e22443be5c0a4f4ca87",
+      "mtime_ns": 1789375982978955600
+    },
+    {
+      "path": "Brain/brain.jpg",
+      "previous_path": "Brain/brain.jpg",
+      "previous_asset": "003_brain.jpg",
+      "previous_dimensions": [
+        26396,
+        17197
+      ],
+      "previous_bytes": 239192427,
+      "changed": false,
+      "width": 26396,
+      "height": 17197,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 239192427,
+      "sha256": "369e96c91667c3eff7709d9bcd9e738d769bc22310c5282336e948344967d38f",
+      "mtime_ns": 1792392724000000000
+    },
+    {
+      "path": "Duodenum/001_+0.0μm_1.612mm_-2.381mm.png",
+      "previous_path": "Duodenum/001_+0.0μm_1.612mm_-2.381mm.png",
+      "previous_asset": "004_duodenum.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4305835,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4305835,
+      "sha256": "678d27312161cfcb80a970e863863edf21825383577bd1aeb5c4f2608a5271cd",
+      "mtime_ns": 1789613067939496800
+    },
+    {
+      "path": "Duodenum/Duodenum.jpg",
+      "previous_path": "Duodenum/Duodenum.png",
+      "previous_asset": "006_duodenum.png",
+      "previous_dimensions": [
+        2600,
+        2407
+      ],
+      "previous_bytes": 8489411,
+      "changed": true,
+      "width": 19540,
+      "height": 18091,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 184568319,
+      "sha256": "d7f7cad04ab4f42a374f0c734503b220e659832c8c9ca8218fcdd40f1ff1922f",
+      "mtime_ns": 1793091511533249700
+    },
+    {
+      "path": "Eyeball/021_+20.0μm_-0.429mm_-3.078mm.png",
+      "previous_path": "Eyeball/021_+20.0μm_-0.429mm_-3.078mm.png",
+      "previous_asset": "007_eyeball.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4382218,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4382218,
+      "sha256": "3c28d80064b404a0b142a1ad4b3eb96a3d73f7dfa190628221e1cee2f5315a0f",
+      "mtime_ns": 1787286137454547500
+    },
+    {
+      "path": "Eyeball/Eyeball.png",
+      "previous_path": "Eyeball/Eyeball.png",
+      "previous_asset": "009_eyeball.png",
+      "previous_dimensions": [
+        7229,
+        7598
+      ],
+      "previous_bytes": 73209208,
+      "changed": false,
+      "width": 7229,
+      "height": 7598,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 73209208,
+      "sha256": "08a50b2bd58ebdbfe41510c5f2062599536461ec89a1a607a1bbaea9cf2ea795",
+      "mtime_ns": 1791728273000000000
+    },
+    {
+      "path": "Inguinal lymph node/011_+10.0μm_1.744mm_0.700mm.png",
+      "previous_path": "Inguinal lymph node/011_+10.0μm_1.744mm_0.700mm.png",
+      "previous_asset": "010_inguinal-lymph-node.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4426239,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4426239,
+      "sha256": "e4171a8294504d3e2859640871a8888e3931fc0a2f823beb3bfd3c0b03b30d30",
+      "mtime_ns": 1787295061045941600
+    },
+    {
+      "path": "Inguinal lymph node/Inguinal lymph node.jpg",
+      "previous_path": "Inguinal lymph node/Inguinal lymph node.png",
+      "previous_asset": "012_inguinal-lymph-node.png",
+      "previous_dimensions": [
+        1810,
+        1525
+      ],
+      "previous_bytes": 2500099,
+      "changed": true,
+      "width": 7238,
+      "height": 6097,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 19467120,
+      "sha256": "cd60f59c1162581424ba7dea386c65818ee34e788f83bc51610e35cfd7411295",
+      "mtime_ns": 1793092044109981400
+    },
+    {
+      "path": "Kidney/021_+20.0μm_0.462mm_0.006mm.png",
+      "previous_path": "Kidney/021_+20.0μm_0.462mm_0.006mm.png",
+      "previous_asset": "013_kidney.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4487669,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4487669,
+      "sha256": "197e5b812368b63d8e1473bf2d858e147294b6b855734c682baf0b7052b07066",
+      "mtime_ns": 1787219159527366500
+    },
+    {
+      "path": "Kidney/kidney.jpg",
+      "previous_path": "Kidney/kidney.png",
+      "previous_asset": "015_kidney.png",
+      "previous_dimensions": [
+        2040,
+        2600
+      ],
+      "previous_bytes": 7740942,
+      "changed": true,
+      "width": 16540,
+      "height": 21077,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 260251961,
+      "sha256": "9ca81a6cd0f7c70e2a6b3382d5064e4e1b55f4872a409098c761079d12b277e7",
+      "mtime_ns": 1793091908126472600
+    },
+    {
+      "path": "Liver/020_+19.0μm_-0.476mm_1.342mm.png",
+      "previous_path": "Liver/020_+19.0μm_-0.476mm_1.342mm.png",
+      "previous_asset": "016_liver.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4236851,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4236851,
+      "sha256": "5ddb159c680f9206dd0b2e467dc1ef68d40c661474bad9669ae48ba1a6e06454",
+      "mtime_ns": 1787129225669593000
+    },
+    {
+      "path": "Liver/Liver.png",
+      "previous_path": "Liver/Liver.png",
+      "previous_asset": "018_liver.png",
+      "previous_dimensions": [
+        6242,
+        7605
+      ],
+      "previous_bytes": 106290183,
+      "changed": false,
+      "width": 6242,
+      "height": 7605,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 106290183,
+      "sha256": "38dfe88a74067544b08fd60fae87a2fd1fd7303dc38de781a8195a6be5c3572b",
+      "mtime_ns": 1792146498000000000
+    },
+    {
+      "path": "Ovary/024_+23.0μm_0.618mm_0.887mm.png",
+      "previous_path": "Ovary/024_+23.0μm_0.618mm_0.887mm.png",
+      "previous_asset": "019_ovary.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4583012,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4583012,
+      "sha256": "52c7eb90c0d5c44a6a5bb0c015bd45e16eb7f8a5967cf8e3265009d1badca57c",
+      "mtime_ns": 1787733686549960100
+    },
+    {
+      "path": "Ovary/ovary.jpg",
+      "previous_path": "Ovary/ovary.png",
+      "previous_asset": "021_ovary.png",
+      "previous_dimensions": [
+        1295,
+        1526
+      ],
+      "previous_bytes": 3084562,
+      "changed": true,
+      "width": 5180,
+      "height": 6101,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 26871083,
+      "sha256": "3e573328f56e2515eeda562d341c5194fcc9a89d61513909bf9aac273efb1d1f",
+      "mtime_ns": 1793092137002365800
+    },
+    {
+      "path": "Pancreas/016_+15.0μm_1.125mm_0.013mm.png",
+      "previous_path": "Pancreas/016_+15.0μm_1.125mm_0.013mm.png",
+      "previous_asset": "022_pancreas.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4472425,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4472425,
+      "sha256": "739fc44840e91efb508ea08020dbc6f5fbe56d22cf1b737767161391983c3f43",
+      "mtime_ns": 1787711754394631900
+    },
+    {
+      "path": "Pancreas/Pancreas.jpg",
+      "previous_path": "Pancreas/pancreas.png",
+      "previous_asset": "024_pancreas.png",
+      "previous_dimensions": [
+        2600,
+        2371
+      ],
+      "previous_bytes": 8211674,
+      "changed": true,
+      "width": 16511,
+      "height": 15058,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 194884562,
+      "sha256": "c8d355a2a8479a3ddc8daf036fdc0494ac30e629817194d50e732c7cb663e6af",
+      "mtime_ns": 1793091346947761200
+    },
+    {
+      "path": "Testis/012_+11.0μm_-0.113mm_1.348mm.png",
+      "previous_path": "Testis/012_+11.0μm_-0.113mm_1.348mm.png",
+      "previous_asset": "025_testis.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4290029,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4290029,
+      "sha256": "a43f9b34c3f933cce68c0e4564692e1daf242b05aef0efa1ad27368fd6bbfb99",
+      "mtime_ns": 1787303121927553100
+    },
+    {
+      "path": "Testis/Testis.png",
+      "previous_path": "Testis/Testis.png",
+      "previous_asset": "027_testis.png",
+      "previous_dimensions": [
+        10313,
+        7600
+      ],
+      "previous_bytes": 80389885,
+      "changed": false,
+      "width": 10313,
+      "height": 7600,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 80389885,
+      "sha256": "76d31b9298101688d87d4531b703aadc1703cb933fbd0ad63a1f716c41f790ea",
+      "mtime_ns": 1791788221000000000
+    },
+    {
+      "path": "Thymus/019_+18.0μm_-2.749mm_-2.736mm.png",
+      "previous_path": "Thymus/019_+18.0μm_-2.749mm_-2.736mm.png",
+      "previous_asset": "028_thymus.png",
+      "previous_dimensions": [
+        1600,
+        1100
+      ],
+      "previous_bytes": 4607597,
+      "changed": false,
+      "width": 1600,
+      "height": 1100,
+      "format": "PNG",
+      "mode": "RGB",
+      "bytes": 4607597,
+      "sha256": "a362281d08113881d1a54dbb6849defaf46ad090b385b4e66253ae5e456c5117",
+      "mtime_ns": 1787194771844886300
+    },
+    {
+      "path": "Thymus/Thymus.jpg",
+      "previous_path": "Thymus/Thymus.png",
+      "previous_asset": "030_thymus.png",
+      "previous_dimensions": [
+        2600,
+        2116
+      ],
+      "previous_bytes": 6736718,
+      "changed": true,
+      "width": 18566,
+      "height": 15105,
+      "format": "JPEG",
+      "mode": "RGB",
+      "bytes": 191325575,
+      "sha256": "8a89257363192ec9afe8892cb099c9a53e2b1560299e0bf4f4a15566d8896ef7",
+      "mtime_ns": 1793091729300022100
+    }
+  ]
+}
