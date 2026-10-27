@@ -1,4 +1,4 @@
-# dFFOCT — dynamic FFOCT
+# Mouse organ dFFOCT data
 
 Data accompanying the manuscript **Label-free volumetric dynamic atlas of fresh mouse organs using full-field optical coherence tomography**.
 
@@ -44,7 +44,7 @@ python restore_data.py --assets release-assets --output data
 If GitHub CLI is installed, all release attachments can be downloaded with one command after the release is published:
 
 ```shell
-gh release download data-v1.0 --repo forest1997/dffoct-dynamic-ffoct --dir release-assets
+gh release download data-v1.0 --repo forest1997/mouse-organs-dffoct-raw-data --dir release-assets
 ```
 
 The script reassembles file parts in manifest order, checks SHA-256 hashes for both the individual attachments and the complete original files, and restores the exact original Unicode filenames and organ directory structure. It refuses to overwrite existing output files. If verification fails, an incomplete `.partial` file is left for inspection; remove that specific incomplete file before retrying.
