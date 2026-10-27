@@ -1,0 +1,599 @@
+{
+  "schema_version": 1,
+  "title": "Label-free volumetric dynamic atlas of fresh mouse organs using full-field optical coherence tomography",
+  "file_count": 30,
+  "total_bytes": 36625102583,
+  "split_method": "Byte concatenation in manifest asset order; no compression or conversion.",
+  "files": [
+    {
+      "path": "Brain/003_+20.0μm_-0.576mm_1.642mm.png",
+      "bytes": 4664319,
+      "assets": [
+        {
+          "name": "001_brain.png",
+          "bytes": 4664319,
+          "sha256": "78fa12bed49aba59c4e5af981ad6062c7001c6c5899c0e22443be5c0a4f4ca87"
+        }
+      ],
+      "sha256": "78fa12bed49aba59c4e5af981ad6062c7001c6c5899c0e22443be5c0a4f4ca87"
+    },
+    {
+      "path": "Brain/003_+20.0μm_-0.576mm_1.642mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "002_brain.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "d407f9b886d47427fafda03a9f7c70a03d22391a927ee9289dc692668b74d52f"
+        },
+        {
+          "name": "002_brain.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "1b8e100cf8ff808f24b1d73698ba819ce4065c85d7bb7eb9831b60cfbcf4f968"
+        },
+        {
+          "name": "002_brain.npy.part003",
+          "bytes": 4480128,
+          "sha256": "c6572b48a0a05f555563d0c053a20065b678a9b5cadb8ed24f81c204a105f1fa"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "535a5cb99af29fafd24b6db629631a8fea000c63f015bb8d9c955515c4d62589"
+    },
+    {
+      "path": "Brain/brain.jpg",
+      "bytes": 239192427,
+      "assets": [
+        {
+          "name": "003_brain.jpg",
+          "bytes": 239192427,
+          "sha256": "369e96c91667c3eff7709d9bcd9e738d769bc22310c5282336e948344967d38f"
+        }
+      ],
+      "sha256": "369e96c91667c3eff7709d9bcd9e738d769bc22310c5282336e948344967d38f"
+    },
+    {
+      "path": "Duodenum/001_+0.0μm_1.612mm_-2.381mm.png",
+      "bytes": 4305835,
+      "assets": [
+        {
+          "name": "004_duodenum.png",
+          "bytes": 4305835,
+          "sha256": "678d27312161cfcb80a970e863863edf21825383577bd1aeb5c4f2608a5271cd"
+        }
+      ],
+      "sha256": "678d27312161cfcb80a970e863863edf21825383577bd1aeb5c4f2608a5271cd"
+    },
+    {
+      "path": "Duodenum/001_+0.0μm_1.612mm_-2.381mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "005_duodenum.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "6da569650b3f3446a68b9b8581269425ff4d5755627b4b373dd7299a87d715d5"
+        },
+        {
+          "name": "005_duodenum.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "a094c62e09828ceaac229b6699075a66f4c1bedef7540068246de7f10ebf34a6"
+        },
+        {
+          "name": "005_duodenum.npy.part003",
+          "bytes": 4480128,
+          "sha256": "01b7eee664c681b584449893c60b0f984b21716f2b542d5797826d54aa23322b"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "cf49d50983837e0c649ea6d37ca17458cdb493b24bdef084f54c5b57ef62319a"
+    },
+    {
+      "path": "Duodenum/Duodenum.png",
+      "bytes": 8489411,
+      "assets": [
+        {
+          "name": "006_duodenum.png",
+          "bytes": 8489411,
+          "sha256": "d6be2215c9f66a154ffe2f8eea754174c6ea1570001b15e9c59a7798ece4999e"
+        }
+      ],
+      "sha256": "d6be2215c9f66a154ffe2f8eea754174c6ea1570001b15e9c59a7798ece4999e"
+    },
+    {
+      "path": "Eyeball/021_+20.0μm_-0.429mm_-3.078mm.png",
+      "bytes": 4382218,
+      "assets": [
+        {
+          "name": "007_eyeball.png",
+          "bytes": 4382218,
+          "sha256": "3c28d80064b404a0b142a1ad4b3eb96a3d73f7dfa190628221e1cee2f5315a0f"
+        }
+      ],
+      "sha256": "3c28d80064b404a0b142a1ad4b3eb96a3d73f7dfa190628221e1cee2f5315a0f"
+    },
+    {
+      "path": "Eyeball/021_+20.0μm_-0.429mm_-3.078mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "008_eyeball.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "f46a18fbf3b35dec4ce6441795d5f590ff65ffb816fce7ae4b63e992342d3cde"
+        },
+        {
+          "name": "008_eyeball.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "d151ef9f4e49deef6ebce671ad9ea56a7d545600c089e63068dec7c59a47b302"
+        },
+        {
+          "name": "008_eyeball.npy.part003",
+          "bytes": 4480128,
+          "sha256": "02ed0adfe000c93b64aeec531033490b187bd2fc747c6fff4db8b206df968a16"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "a92efde34efffa741b03c1177dbf83d00d0fd4cc77fdcfd143ec2c5f2725f307"
+    },
+    {
+      "path": "Eyeball/Eyeball.png",
+      "bytes": 73209208,
+      "assets": [
+        {
+          "name": "009_eyeball.png",
+          "bytes": 73209208,
+          "sha256": "08a50b2bd58ebdbfe41510c5f2062599536461ec89a1a607a1bbaea9cf2ea795"
+        }
+      ],
+      "sha256": "08a50b2bd58ebdbfe41510c5f2062599536461ec89a1a607a1bbaea9cf2ea795"
+    },
+    {
+      "path": "Inguinal lymph node/011_+10.0μm_1.744mm_0.700mm.png",
+      "bytes": 4426239,
+      "assets": [
+        {
+          "name": "010_inguinal-lymph-node.png",
+          "bytes": 4426239,
+          "sha256": "e4171a8294504d3e2859640871a8888e3931fc0a2f823beb3bfd3c0b03b30d30"
+        }
+      ],
+      "sha256": "e4171a8294504d3e2859640871a8888e3931fc0a2f823beb3bfd3c0b03b30d30"
+    },
+    {
+      "path": "Inguinal lymph node/011_+10.0μm_1.744mm_0.700mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "011_inguinal-lymph-node.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "2690c5bbe990bdee361a63a405c2fb6bffe146c9846974efef7d73807a564bbb"
+        },
+        {
+          "name": "011_inguinal-lymph-node.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "351ce4b55a32c6ea5badbd0370463a4fbcabafa7088a6783de2d9d27b84140eb"
+        },
+        {
+          "name": "011_inguinal-lymph-node.npy.part003",
+          "bytes": 4480128,
+          "sha256": "c3141808d9c8d049aa90e3f64789daca70d8340fd5e00f190b9b7031317fc7b1"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "dbe2cb475048accdcc1aef1acc5b1ffbfd0d02ea0f965c7e085794deab8f4770"
+    },
+    {
+      "path": "Inguinal lymph node/Inguinal lymph node.png",
+      "bytes": 2500099,
+      "assets": [
+        {
+          "name": "012_inguinal-lymph-node.png",
+          "bytes": 2500099,
+          "sha256": "2f4889eb76c94732733d03c10c4078e63e511a81c0eb258dad8aeb1bf7b8958b"
+        }
+      ],
+      "sha256": "2f4889eb76c94732733d03c10c4078e63e511a81c0eb258dad8aeb1bf7b8958b"
+    },
+    {
+      "path": "Kidney/021_+20.0μm_0.462mm_0.006mm.png",
+      "bytes": 4487669,
+      "assets": [
+        {
+          "name": "013_kidney.png",
+          "bytes": 4487669,
+          "sha256": "197e5b812368b63d8e1473bf2d858e147294b6b855734c682baf0b7052b07066"
+        }
+      ],
+      "sha256": "197e5b812368b63d8e1473bf2d858e147294b6b855734c682baf0b7052b07066"
+    },
+    {
+      "path": "Kidney/021_+20.0μm_0.462mm_0.006mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "014_kidney.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "a1cfe71cefdb86f8695f11aed88881187199da2e8daea2f52f363d863b8fb9fc"
+        },
+        {
+          "name": "014_kidney.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "858b1b17eed3d3f20aa6e985476498c5697fffd69fdfe902fedd8ac58bac4cae"
+        },
+        {
+          "name": "014_kidney.npy.part003",
+          "bytes": 4480128,
+          "sha256": "4f4d92aa2f4bd6cf065c300ea98c2b38d0cb4c215cba16258511dd79768c7565"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "c0d9173bd4efebb246e8b87ff2beb69cdf8c40ef26903009a9f40255fccbe976"
+    },
+    {
+      "path": "Kidney/kidney.png",
+      "bytes": 7740942,
+      "assets": [
+        {
+          "name": "015_kidney.png",
+          "bytes": 7740942,
+          "sha256": "81f7ec7ea75f67408199509d5438eb1a2dd07749d4663dcba2324da88d00e7df"
+        }
+      ],
+      "sha256": "81f7ec7ea75f67408199509d5438eb1a2dd07749d4663dcba2324da88d00e7df"
+    },
+    {
+      "path": "Liver/020_+19.0μm_-0.476mm_1.342mm.png",
+      "bytes": 4236851,
+      "assets": [
+        {
+          "name": "016_liver.png",
+          "bytes": 4236851,
+          "sha256": "5ddb159c680f9206dd0b2e467dc1ef68d40c661474bad9669ae48ba1a6e06454"
+        }
+      ],
+      "sha256": "5ddb159c680f9206dd0b2e467dc1ef68d40c661474bad9669ae48ba1a6e06454"
+    },
+    {
+      "path": "Liver/020_+19.0μm_-0.476mm_1.342mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "017_liver.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "1f80a1e5131ba79d5818da509e9f063511d1260d78ae930534a13188e5207401"
+        },
+        {
+          "name": "017_liver.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "3b3bc1a496e1010a6266fb47d00c26bbb93b80a21eeda9d3e0ef18fb18757686"
+        },
+        {
+          "name": "017_liver.npy.part003",
+          "bytes": 4480128,
+          "sha256": "f17ae87f091087f76405b9ca1ea733cc59bec5ac2c56cc292705f79fa4ecd56c"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "a691c76c31119f2cc373fc30b6df75b821c9966525683ee28404eb44aacf80ca"
+    },
+    {
+      "path": "Liver/Liver.png",
+      "bytes": 106290183,
+      "assets": [
+        {
+          "name": "018_liver.png",
+          "bytes": 106290183,
+          "sha256": "38dfe88a74067544b08fd60fae87a2fd1fd7303dc38de781a8195a6be5c3572b"
+        }
+      ],
+      "sha256": "38dfe88a74067544b08fd60fae87a2fd1fd7303dc38de781a8195a6be5c3572b"
+    },
+    {
+      "path": "Ovary/024_+23.0μm_0.618mm_0.887mm.png",
+      "bytes": 4583012,
+      "assets": [
+        {
+          "name": "019_ovary.png",
+          "bytes": 4583012,
+          "sha256": "52c7eb90c0d5c44a6a5bb0c015bd45e16eb7f8a5967cf8e3265009d1badca57c"
+        }
+      ],
+      "sha256": "52c7eb90c0d5c44a6a5bb0c015bd45e16eb7f8a5967cf8e3265009d1badca57c"
+    },
+    {
+      "path": "Ovary/024_+23.0μm_0.618mm_0.887mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "020_ovary.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "687538b94f6e02daeb0f9fcb7c9abc8ae32521a2f77254a65e29d730e8589509"
+        },
+        {
+          "name": "020_ovary.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "c2ed73804fd7fdc494e20a0671dc997066f9c276b4f38febf2804972343e071f"
+        },
+        {
+          "name": "020_ovary.npy.part003",
+          "bytes": 4480128,
+          "sha256": "867fbc0f0ab7b9a7b4721aa75d91fcb1b4c44512bf877cedbe77ed74f354341a"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "f6f77bc66552850b9a75365958512ec1de70f87b5f2f17299d5e1cafdfc1712c"
+    },
+    {
+      "path": "Ovary/ovary.png",
+      "bytes": 3084562,
+      "assets": [
+        {
+          "name": "021_ovary.png",
+          "bytes": 3084562,
+          "sha256": "e664993b85a0fadf803e9652fedd96392f5ed0414d48dd621a6a59bebb1bbccd"
+        }
+      ],
+      "sha256": "e664993b85a0fadf803e9652fedd96392f5ed0414d48dd621a6a59bebb1bbccd"
+    },
+    {
+      "path": "Pancreas/016_+15.0μm_1.125mm_0.013mm.png",
+      "bytes": 4472425,
+      "assets": [
+        {
+          "name": "022_pancreas.png",
+          "bytes": 4472425,
+          "sha256": "739fc44840e91efb508ea08020dbc6f5fbe56d22cf1b737767161391983c3f43"
+        }
+      ],
+      "sha256": "739fc44840e91efb508ea08020dbc6f5fbe56d22cf1b737767161391983c3f43"
+    },
+    {
+      "path": "Pancreas/016_+15.0μm_1.125mm_0.013mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "023_pancreas.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "48b76ec5599a44492ccc10322c0b350e8ae97c57e9accf109debe05a36b688e7"
+        },
+        {
+          "name": "023_pancreas.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "7943a5b6e12f17d7a9d2964d97c9fd4c0836cd6de714c31db6678b886f3d9653"
+        },
+        {
+          "name": "023_pancreas.npy.part003",
+          "bytes": 4480128,
+          "sha256": "5399ba1bd8775e6d2a7745fc85c20392d1908dd107dcecab2848a680974d010b"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "71ca6776f81958a86f0685f5ad355bb4eb9d6730a6940154f8cc5e03bad63729"
+    },
+    {
+      "path": "Pancreas/pancreas.png",
+      "bytes": 8211674,
+      "assets": [
+        {
+          "name": "024_pancreas.png",
+          "bytes": 8211674,
+          "sha256": "20dabb6d19101d0347c956f63cbefbe027c21a1b53d2e799f768a5fe664fe1c7"
+        }
+      ],
+      "sha256": "20dabb6d19101d0347c956f63cbefbe027c21a1b53d2e799f768a5fe664fe1c7"
+    },
+    {
+      "path": "Testis/012_+11.0μm_-0.113mm_1.348mm.png",
+      "bytes": 4290029,
+      "assets": [
+        {
+          "name": "025_testis.png",
+          "bytes": 4290029,
+          "sha256": "a43f9b34c3f933cce68c0e4564692e1daf242b05aef0efa1ad27368fd6bbfb99"
+        }
+      ],
+      "sha256": "a43f9b34c3f933cce68c0e4564692e1daf242b05aef0efa1ad27368fd6bbfb99"
+    },
+    {
+      "path": "Testis/012_+11.0μm_-0.113mm_1.348mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "026_testis.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "6270db51a732e14bd66c31d0c82ae1d0f3187a602829a99c4fcb5e0d13a024f6"
+        },
+        {
+          "name": "026_testis.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "b01e51199443efec5820d24c330187da062bfb2b1aaa2382b1da2c6371a8374c"
+        },
+        {
+          "name": "026_testis.npy.part003",
+          "bytes": 4480128,
+          "sha256": "14d0f0b9aa2f650507313b2e0d9182285f538ab8e3e24375f4857d1c65ed7088"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "26aa81fad4aed40c307401b8cb61eb90b818b1d517844644accbddfcfc2cd73f"
+    },
+    {
+      "path": "Testis/Testis.png",
+      "bytes": 80389885,
+      "assets": [
+        {
+          "name": "027_testis.png",
+          "bytes": 80389885,
+          "sha256": "76d31b9298101688d87d4531b703aadc1703cb933fbd0ad63a1f716c41f790ea"
+        }
+      ],
+      "sha256": "76d31b9298101688d87d4531b703aadc1703cb933fbd0ad63a1f716c41f790ea"
+    },
+    {
+      "path": "Thymus/019_+18.0μm_-2.749mm_-2.736mm.png",
+      "bytes": 4607597,
+      "assets": [
+        {
+          "name": "028_thymus.png",
+          "bytes": 4607597,
+          "sha256": "a362281d08113881d1a54dbb6849defaf46ad090b385b4e66253ae5e456c5117"
+        }
+      ],
+      "sha256": "a362281d08113881d1a54dbb6849defaf46ad090b385b4e66253ae5e456c5117"
+    },
+    {
+      "path": "Thymus/019_+18.0μm_-2.749mm_-2.736mm_raw.npy",
+      "bytes": 3604480128,
+      "assets": [
+        {
+          "name": "029_thymus.npy.part001",
+          "bytes": 1800000000,
+          "sha256": "69c5adaeeb015f430ae5318342b86ede07a51c3f2138c86074fcf191b0885266"
+        },
+        {
+          "name": "029_thymus.npy.part002",
+          "bytes": 1800000000,
+          "sha256": "f2b1595d352afeb9a644e04942b2485410b03b9dd549e7a6a09b124732f68502"
+        },
+        {
+          "name": "029_thymus.npy.part003",
+          "bytes": 4480128,
+          "sha256": "8439a679c68d55559a15ef5e5807036d30cc73f1a21153ca8a0bd956f9530b53"
+        }
+      ],
+      "npy": {
+        "version": [
+          1,
+          0
+        ],
+        "dtype": "<u2",
+        "shape": [
+          1024,
+          1100,
+          1600
+        ],
+        "fortran_order": false
+      },
+      "sha256": "18f8e3fcb0aaec05d364c7017e2e0457202ea8ac43233cf1c4d534929dc7c673"
+    },
+    {
+      "path": "Thymus/Thymus.png",
+      "bytes": 6736718,
+      "assets": [
+        {
+          "name": "030_thymus.png",
+          "bytes": 6736718,
+          "sha256": "a22b36a41eb7e9e8193ee494e067596ea33a099c0caffb170a5bd9c2789fe939"
+        }
+      ],
+      "sha256": "a22b36a41eb7e9e8193ee494e067596ea33a099c0caffb170a5bd9c2789fe939"
+    }
+  ]
+}
