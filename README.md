@@ -1,6 +1,6 @@
 # Mouse organ dFFOCT data
 
-Data accompanying the manuscript **Label-free volumetric dynamic atlas of fresh mouse organs using full-field optical coherence tomography**.
+Data accompanying the manuscript **Label-free volumetric dynamic atlas of fresh mouse organs using dynamic full-field optical coherence tomography**.
 
 ## Dataset contents
 
