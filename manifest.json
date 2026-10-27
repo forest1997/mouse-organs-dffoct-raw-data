@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "title": "Label-free volumetric dynamic atlas of fresh mouse organs using full-field optical coherence tomography",
+  "title": "Label-free volumetric dynamic atlas of fresh mouse organs using dynamic full-field optical coherence tomography",
   "file_count": 30,
   "total_bytes": 37465707797,
   "split_method": "Byte concatenation in manifest asset order; no compression or conversion.",
