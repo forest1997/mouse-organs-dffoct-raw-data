@@ -67,3 +67,8 @@ print(raw.shape, raw.dtype)
 ## Citation and reuse
 
 The associated manuscript title is given above. Authors, publication DOI, dataset DOI, and a data reuse licence have not yet been supplied. Public download access does not by itself grant a reuse licence. This collection describes the supplied files and does not establish that every dataset underlying the manuscript is included.
+
+
+## Supplementary videos
+
+The six original MP4 files for Visualizations 1-6 are available in [supplemental-videos](supplemental-videos/), with brief descriptions and corresponding manuscript figure numbers. No resizing or re-encoding was applied to these copies. If GitHub does not show a video preview, open the file and select **Download raw file** to play it locally. [SHA-256 checksums](supplemental-videos/SHA256SUMS.txt) are provided to verify download integrity.
